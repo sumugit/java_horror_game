@@ -2,16 +2,21 @@
 
 雨の中のある日, 私は大学のサークル仲間と心霊スポットで有名な館を訪れた. そこで見た光景とは..
 
-![館入口](/img/horror1.PNG)
+<div align="center">
+<img src="./img/horror1.PNG" width="800" alt="館入口">
+</div>
 
 
 # ゲーム概要
-
-<img src="./img/IMG_2950.JPG" width="932" alt="呪館">
+<div align="center">
+<img src="./img/IMG_2950.JPG" width="800" alt="呪館">
+</div>
 
 本作品はプログラミング言語 Java で書かれた 2 次元 RPG ホラーゲームである. プレイヤーは不気味な館に潜入し, 敵のゴーストを懐中電灯ライトで倒しながら, 館から抜け出すためのカギを探索する. 館内には様々なゴーストやアイテムが存在し, 戦略の幅を広げる.
 
-![ゲームプレイgif](/img/demo.gif)
+<div align="center">
+<img src="./img/demo.gif" width="600" alt="ゲームプレイ">
+</div>
 
 # ゲームの設定・ルール
 
